@@ -17,10 +17,7 @@ The user should clone the repository from GitHub. This application requires Node
 ## [Usage](#table-of-contents)
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
-View video to see MySQL walk through via [Screencastify](x)
-View video to walk through of the API routes [Screencastify](x)
-View video to see Insomnia walk through via [Screencastify](x)
-## [License](#table-of-contents)
+View video to see MySQL walkthrough and API routes via [Screencastify]( https://drive.google.com/file/d/1EK76hWPMcB_SNuALvyGYqZB64CbqX67g/view)
 
 ## [Contributing](#table-of-contents)
 There are no contributors for this application. This was build for a coding bootcamp.
